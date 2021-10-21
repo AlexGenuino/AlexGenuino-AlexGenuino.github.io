@@ -1719,7 +1719,7 @@ p.form-message.success.form-message.error, p.form-message.error.form-message.err
 }
 .back-to-top {
     font-size: 40px;
-    color: #25d366;
+    color: RGB(37, 211, 102);
     position: fixed;
     right: 40px;
     bottom: 40px;
@@ -1727,7 +1727,7 @@ p.form-message.success.form-message.error, p.form-message.error.form-message.err
     height: 60px;
     line-height: 60px;
     border-radius: 5px;
-    background-color: white;
+    background-color: RGB(255,255,255);
     text-align: center;
     z-index: 99;
     -webkit-transition: all .3s ease-out 0s;
@@ -1742,8 +1742,8 @@ p.form-message.success.form-message.error, p.form-message.error.form-message.err
 }
 
 .back-to-top:hover {
-    color: #25d366;
-    background-color: #6C011F;
+    color: RGB(37, 211, 102);
+    background-color: RGB(255,255,255);
 }
 
 .ul-order {
